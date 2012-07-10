@@ -1,0 +1,18 @@
+Subject: Dobrodošao/la na "{SITENAME}"
+
+Poštovanje,
+
+postavke tvojeg korisničkog računa su sljedeće:
+
+----------------------------
+Korisničko ime: {USERNAME}
+URL phpBB foruma: {U_BOARD}
+----------------------------
+
+Tvoj korisnički račun je trenutno neaktivan i mora biti odobren od strane administratora/ice prije nego se možeš prijaviti. Nova e-mail poruka će biti poslana nakon što račun bude odobren.
+
+Tvoja lozinka je sigurno pohranjena unutar naše baze podataka i ne može biti pregledana. U slučaju da zaboraviš lozinku, možeš je resetirati pomoću e-mail adrese povezane sa tvojim korisničkim računom. Forum će ti nakon toga poslati novu softverski generiranu.
+
+Hvala ti što si se registrirao/la na naš forum.
+
+{EMAIL_SIG}

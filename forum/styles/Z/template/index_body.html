@@ -1,0 +1,47 @@
+<!-- INCLUDE overall_header.html -->
+
+<!-- INCLUDE forumlist_body.html -->
+
+<!-- IF not S_IS_BOT -->
+	<span class="gensmall"><!-- IF not S_IS_BOT and U_MARK_FORUMS --><a href="{U_MARK_FORUMS}">{L_MARK_FORUMS_READ}</a> | <!-- ENDIF --><!-- IF not S_IS_BOT --><a href="{U_DELETE_COOKIES}">{L_DELETE_COOKIES}</a> | <!-- ENDIF --><!-- IF not S_IS_BOT and U_TEAM --><!-- ENDIF --><!-- IF U_TEAM --><a href="{U_TEAM}">{L_THE_TEAM}</a><!-- ENDIF --></span>
+<!-- ENDIF -->
+<br />
+<br clear="all" />
+
+<!-- IF S_DISPLAY_ONLINE_LIST -->
+	<br clear="all" />
+
+	<table class="tablebg" width="100%" cellspacing="1">
+	<tr>
+		<td class="catdiv" colspan="5"><h2><!-- IF U_VIEWONLINE --><a href="{U_VIEWONLINE}">{L_WHO_IS_ONLINE}</a> / {L_STATISTICS}<!-- ELSE -->{L_WHO_IS_ONLINE} / {L_STATISTICS}<!-- ENDIF --></h2></td>
+	</tr>
+	<tr>
+		<td class="row1" width="100%"><span class="genmed">{TOTAL_USERS_ONLINE} ({L_ONLINE_EXPLAIN})<br />{RECORD_USERS}<br /><br />{LOGGED_IN_USER_LIST}</span><br /><br />
+		<!-- IF LEGEND -->
+		<b class="gensmall">{L_LEGEND} : {LEGEND}</b><br /><br />
+		<!-- ENDIF -->
+		<p class="genmed">{TOTAL_POSTS} | {TOTAL_TOPICS} | {TOTAL_USERS} | {NEWEST_USER}</p>
+		</td>
+	</tr>
+	
+	</table>
+<!-- ENDIF -->
+
+<br clear="all" />
+
+<table class="legend row1">
+<tr>
+	<td width="20" align="center">{FORUM_UNREAD_IMG}</td>
+	<td><span class="gensmall">{L_NEW_POSTS}</span></td>
+	<td>&nbsp;&nbsp;</td>
+	<td width="20" align="center">{FORUM_IMG}</td>
+	<td><span class="gensmall">{L_NO_NEW_POSTS}</span></td>
+	<td>&nbsp;&nbsp;</td>
+	<td width="20" align="center">{FORUM_LOCKED_IMG}</td>
+	<td><span class="gensmall">{L_FORUM_LOCKED}</span></td>
+</tr>
+</table>
+
+{S_LOGIN_REDIRECT}
+
+<!-- INCLUDE overall_footer.html -->

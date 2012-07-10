@@ -1,0 +1,15 @@
+El siguiente es un email enviado por La Administración de "{SITENAME}". 
+Si este mensaje es spam, contiene comentarios abusivos o que consideres ofensivos 
+por favor contactate con La Administración del Sitio en esta dirección:
+
+{CONTACT_EMAIL}
+
+Adjuntá este email completo (particularmente las cabeceras [headers]). 
+
+Este es el mensaje enviado:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}
+
+
+{EMAIL_SIG}

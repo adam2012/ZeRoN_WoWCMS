@@ -1,0 +1,6 @@
+Verze 1.4.1:
+- Upraven popisek u vysvětlivky hesla (řetězec PASS_TYPE_ALPHA_EXPLAIN)
+Verze 1.4:
+- Vložen soubor CHANGELOG
+- Aktualizace souborů pro verzi 3.0.9
+- Odstraněny zbytečné řetezce v memberlist.php

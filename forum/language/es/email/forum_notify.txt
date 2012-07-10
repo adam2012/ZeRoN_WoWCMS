@@ -1,0 +1,22 @@
+Subject: Notificación de mensaje en el foro - "{FORUM_NAME}"
+
+Hola {USERNAME},
+
+Estás recibiendo esta notificación porque estás siguiendo el foro, "{FORUM_NAME}" en "{SITENAME}". 
+Este foro tiene una nueva respuesta al tema "{TOPIC_TITLE}" desde tu última visita. 
+Siguiendo este enlace podés ver esa respuesta, no se enviarán más notificaciones hasta que visites este enlace.
+
+{U_NEWEST_POST}
+
+Si quéres ver el tema, hace clic en el siguiente enlace:
+{U_TOPIC}
+
+Si quéres ver el foro, hace clic en el siguiente enlace:
+{U_TOPIC}
+
+Si no quéres seguir más este foro podés hacer clic en "Cancelar suscripción al Foro" cuando estés ahí, 
+o bien siguiendo este enlace:
+
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}

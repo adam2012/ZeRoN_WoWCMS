@@ -1,0 +1,14 @@
+Subject: Nova privatna poruka
+
+Poštovanje {USERNAME},
+
+primili ste novu privatnu poruku od korisnika/ce "{AUTHOR_NAME}" na forumu "{SITENAME}" sljedećeg naslova:
+
+{SUBJECT}
+
+Poruku možete pročitati klikom na sljedeći link: 
+{U_INBOX}.
+
+Zatražili ste da budete obaviješteni o novim porukama, ne zaboravite da uvijek možete samostalno promijeniti svoje postavke o novim pristiglim porukama u vašem profilu.
+
+{EMAIL_SIG}

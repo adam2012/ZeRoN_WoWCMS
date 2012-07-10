@@ -1,0 +1,10 @@
+Subject: Su solicitud ha sido aprobada
+
+Felicidades,
+
+Tu solicitud para ingresar en el grupo "{GROUP_NAME}" en "{SITENAME}" ha sido aprobada.
+Hace clic en el siguiente enlace para ver tu membresía.
+
+{U_GROUP}
+
+{EMAIL_SIG}

@@ -1,0 +1,17 @@
+Subject: Aktivacija nove lozinke
+
+Poštovanje {USERNAME},
+
+ovaj e-mail ti je stigao jer si zatražio/la [ili netko drugi "u tvoje ime"] novu lozinku na forumu "{SITENAME}".
+
+Ukoliko nisi zatražio/la ovaj e-mail - ignoriraj ga, ukoliko ti nastavi stizati - kontaktiraj administratora/icu foruma.
+
+Za korištenje nove lozinke moraš ju aktivirati. To možeš učiniti klikom na sljedeći link: {U_ACTIVATE}.
+
+Ukoliko je sve prošlo kako treba, moći ćeš se prijaviti koristeći sljedeću lozinku: {PASSWORD}.
+
+Lozinku možeš promijeniti u svom korisničkom profilu.
+
+Ako imaš poteškoća s aktivacijom/promjenom lozinke - kontaktiraj administratora/icu foruma.
+
+{EMAIL_SIG}

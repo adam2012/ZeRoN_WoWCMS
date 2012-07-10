@@ -1,0 +1,7 @@
+Subject: Račun aktiviran
+
+Pozdravljeni, {USERNAME},
+
+Vaš uporabniški račun na spletni strani "{SITENAME}" je bil aktiviran s strani administratorjev - sedaj se lahko prijavite.
+
+{EMAIL_SIG}

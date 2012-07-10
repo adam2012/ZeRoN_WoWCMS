@@ -1,0 +1,9 @@
+Subject: Korisnički račun aktiviran
+
+Poštovanje {USERNAME},
+
+vaš korisnički račun na "{SITENAME}" je aktiviran, sada se možete prijaviti.
+
+Tvoja lozinka je sigurno pohranjena unutar naše baze podataka i ne može biti pregledana. U slučaju da zaboraviš lozinku, možeš je resetirati pomoću e-mail adrese povezane sa tvojim korisničkim računom.
+
+{EMAIL_SIG}
