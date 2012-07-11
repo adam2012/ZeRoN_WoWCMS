@@ -69,7 +69,7 @@ $Romanian['RO'] = "Romania";
 $Romanian['ROEU'] = "Romanian (EU)";
 $italy['europe'] = "Italian";
 $copyright['copyright'] = "Copyright &copy; 2011 ";
-$copyright3['copyright3'] = "Powered by AquaFlame CMS";
+$copyright3['copyright3'] = "Powered by ZeRoN WoW CMS";
 $copyright4['copyright4'] = "Resources are in Blizzard Entertainment Property.";
 
 $Welcome['Welcome'] ="&Kappa;&alpha;&lambda;&omega;&sigmaf; &eta;&rho;&theta;&alpha;&tau;&epsilon;, ";
@@ -501,8 +501,8 @@ $Serv['Serv37'] = "You need to be logged in to use this service.";
 // Finishing Services
 
 // Starting the Forum Translation
-$Forum['Forum'] = "AquaFlame CMS";
-$Forum['Forum1'] = "AquaFlame CMS - Redirection";
+$Forum['Forum'] = "ZeRoN WoW CMS";
+$Forum['Forum1'] = "ZeRoN WoW CMS - Redirection";
 $Forum['Forum2'] = "Grats.";
 $Forum['Forum3'] = " You broke it.";
 $Forum['Forum4'] = "Please wait while we are Redirecting you to the Account Management.";
@@ -766,13 +766,13 @@ $search['charResults'] = "Character results for ";
 $search['guildResults'] = "Guild results for ";
 $search['arenaResults'] = "Arena Team results for ";
 $search['forumResults'] = "Forum results for ";
-$search['again'] = "Please search again…";
+$search['again'] = "Please search againâ€¦";
 $search['noResults1'] = "Your search for ";
 $search['noResults2'] = " has no matches.";
 $search['sugg'] = "Suggestions for searching: ";
 $search['sugg1'] = "Make sure all words are spelled correctly";
 $search['sugg2'] = "Try using more general keywords";
-$search['sugg3'] = "If you know a character’s name and realm, use the format character@realm";
+$search['sugg3'] = "If you know a characterâ€™s name and realm, use the format character@realm";
 $search['summ'] = "Summary";
 $search['prev'] = "Prev";
 $search['articles'] = "Articles";
@@ -941,7 +941,7 @@ $Media['SendWallp'] = "Send Wallpapers";
 $Media['SendScreensh'] = "Send Screenshots";
 $Media['SendArt'] = "Send Artwork";
 $Media['SendComic'] = "Send Comics";
-$Media['SendVideo'] = "Send Vídeos";
+$Media['SendVideo'] = "Send VÃ­deos";
 $Media['Media'] = "Media";
 $Media['AllVideos'] = "All Videos";
 $Media['SendSuccse'] = " The media has been send successfully! Now a moderator must approve it. It may take up to 24 hours.";
