@@ -69,7 +69,7 @@ $Romanian['RO'] = "Romania";
 $Romanian['ROEU'] = "Romanian (EU)";
 $italy['europe'] = "Italian";
 $copyright['copyright'] = "Copyright &copy; 2011 ";
-$copyright3['copyright3'] = "Powered by AquaFlame CMS";
+$copyright3['copyright3'] = "Powered by ZeRoN WoW CMS";
 $copyright4['copyright4'] = "Resources are in Blizzard Entertainment Property.";
 
 $Welcome['Welcome'] ="Welcome, ";
@@ -410,7 +410,7 @@ $Uns['Uns6'] = "The World of Warcraft account merge process is not yet available
 $Uns['Uns7'] = "If you lost your authenticator, please detach it before proceeding. (Security card service ended 8/13/2010 and was automatically detached.) ";
 $Uns['Uns8'] = "If you use Phone Lock: please unlock your World of Warcraft account before merging.";
 $Uns['Uns9'] = "Taiwan: 0800-303-585";
-$Uns['Uns10'] = "(Not available 10�11AM every first Wed of the month)";
+$Uns['Uns10'] = "(Not available 10ï¿½11AM every first Wed of the month)";
 $Uns['Uns11'] = "Hong Kong &amp; Macau: 396-54666";
 $Uns['Uns12'] = " Required";
 $Uns['Uns13'] = "Game Management";
@@ -501,8 +501,8 @@ $Serv['Serv37'] = "You need to be logged in to use this service.";
 // Finishing Services
 
 // Starting the Forum Translation
-$Forum['Forum'] = "AquaFlame CMS";
-$Forum['Forum1'] = "AquaFlame CMS - Redirection";
+$Forum['Forum'] = "ZeRoN WoW CMS";
+$Forum['Forum1'] = "ZeRoN WoW CMS - Redirection";
 $Forum['Forum2'] = "Grats.";
 $Forum['Forum3'] = " You broke it.";
 $Forum['Forum4'] = "Please wait while we are Redirecting you to the Account Management.";
@@ -944,7 +944,7 @@ $Media['SendWallp'] = "Send Wallpapers";
 $Media['SendScreensh'] = "Send Screenshots";
 $Media['SendArt'] = "Send Artwork";
 $Media['SendComic'] = "Send Comics";
-$Media['SendVideo'] = "Send V�deos";
+$Media['SendVideo'] = "Send Vídeos";
 $Media['Media'] = "Media";
 $Media['AllVideos'] = "All Videos";
 $Media['SendSuccse'] = " The media has been send successfully! Now a moderator must approve it. It may take up to 24 hours.";
