@@ -66,7 +66,7 @@ $Romanian['RO'] = "Romania";
 $Romanian['ROEU'] = "Romanian (EU)";
 $italy['europe'] = "Italian";
 $copyright['copyright'] = "Copyright &#169; 2011 ";
-$copyright3['copyright3'] = "Powered by AquaFlame CMS";
+$copyright3['copyright3'] = "Powered by ZeRoN WoW CMS";
 $copyright4['copyright4'] = "Die Ressourcen sind in Eigentum von Blizzard Entertainment.";
 
 $Welcome['Welcome'] ="Willkommen, ";
@@ -359,8 +359,8 @@ $Serv['Serv29'] = "Request GM Trial";
 $Serv['Serv30'] = "Download WoW Client";
 // Finishing Services
 // Starting the Forum Translation
-$Forum['Forum'] = "AquaFlame CMS";
-$Forum['Forum1'] = "AquaFlame CMS - Redirection";
+$Forum['Forum'] = "ZeRoN WoW CMS";
+$Forum['Forum1'] = "ZeRoN WoW CMS - Redirection";
 $Forum['Forum2'] = "Grats.";
 $Forum['Forum3'] = " You broke it.";
 $Forum['Forum4'] = "Please wait while we are Redirecting you to the Account Management.";
